@@ -15,7 +15,7 @@ make thumbnails of video files in caja file manager.
 
 %prep
 %setup -q
-%apply_patches
+%autopatch -p1
 
 %build
 %setup_compile_flags
