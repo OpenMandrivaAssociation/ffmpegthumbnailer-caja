@@ -4,7 +4,7 @@ Version:	1.4.0
 Release:	2
 License:	GPLv2+
 Group:		Video
-URL:		http://mate-desktop.org
+URL:		https://mate-desktop.org
 Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}-%{version}.tar.xz
 Patch0:		ffmpegthumbnailer-caja_mateconf.patch
 BuildArch:	noarch
