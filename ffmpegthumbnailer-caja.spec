@@ -9,6 +9,7 @@ Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}-%{version}.tar.xz
 Patch0:		ffmpegthumbnailer-caja_mateconf.patch
 BuildArch:	noarch
 
+BuildRequires:	make
 %description
 This package install a MateConf schemas to use ffmpegthumbnailer to
 make thumbnails of video files in caja file manager.
